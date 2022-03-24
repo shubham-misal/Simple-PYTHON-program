@@ -11,7 +11,7 @@ A simple python program for finding the entered value is string,integer or inval
 </pre>
 </h3>
 <pre>
-#actual file code ==> evenodd1.py
+#actual file code ==> evenorodd1.py
 
 <i>
 # Calling function from another file
