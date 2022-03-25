@@ -53,4 +53,4 @@ def operationd():
 <h1><i>#OUTPUT</i></h1>
 <img src="https://github.com/shubham-misal/Simple-PYTHON-program/blob/main/outputcc.png" alt="output">
 <hr>
-<h1>🚀 <i>#You can Download, both 👆  FILES uploaded (evenorodd1.py) & (function.py), and run it, you will get the same #OUTPUT </i> 🚀</h1>
+<h3>🚀 <i>#You can Download, both 👆  FILES uploaded (evenorodd1.py) & (function.py), and run it, you will get the same #OUTPUT </i> 🚀</h3>
