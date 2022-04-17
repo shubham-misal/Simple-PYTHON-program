@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://cdn-icons.flaticon.com/png/128/3098/premium/3098090.png?token=exp=1648104783~hmac=6bb69e4a3952cea9d0f522565832b2e6" alt="PYTHON"><br>
+ <img src="https://cdn-icons-png.flaticon.com/128/2570/2570575.png" alt="PYTHON"><br>
   # Simple-PYTHON-program
 </h1><br>
 <h3>
